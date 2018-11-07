@@ -27,7 +27,7 @@ pigment.convert('string');
     "b": 99
   },
   "hsl": {
-    "h": 48deg,
+    "h": "48deg",
     "s": 45,
     "l": 9
   },
@@ -35,7 +35,7 @@ pigment.convert('string');
     "l": 2,
     "a": 9,
     "b": 7
-  }
+  }'
   "strings": {
     "rgb": "rgb(33, 66, 99)",
     "hsl": "hsl(48deg, 45, 9)",
