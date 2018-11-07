@@ -1,6 +1,6 @@
 # Pigment
 
-Pigment is a collection of JS functions for creating and modifying colors. While many libraries like this exist, none did wuite what I wanted, so I started collecting bits and pieces here.
+Pigment is a collection of JS functions for creating and modifying colors. While many libraries like this exist, none did quite what I wanted, so I started collecting bits and pieces here.
 
 # Convert
 
@@ -35,7 +35,7 @@ pigment.convert('string');
     "l": 2,
     "a": 9,
     "b": 7
-  }'
+  },
   "strings": {
     "rgb": "rgb(33, 66, 99)",
     "hsl": "hsl(48deg, 45, 9)",
