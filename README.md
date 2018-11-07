@@ -20,25 +20,25 @@ pigment.convert('string');
 
 ```json
 {
-  hex: '847373',
-  rgb: {
-    r: 33,
-    g: 66,
-    b: 99
+  "hex": "847373",
+  "rgb": {
+    "r": 33,
+    "g": 66,
+    "b": 99
   },
-  hsl: {
-    h: 48deg,
-    s: 45,
-    l: 9
+  "hsl": {
+    "h": 48deg,
+    "s": 45,
+    "l": 9
   },
-  lab: {
-    l: 2,
-    a: 9,
-    b: 7
+  "lab": {
+    "l": 2,
+    "a": 9,
+    "b": 7
   }
-  strings: {
-    rgb: 'rgb(33, 66, 99)',
-    hsl: 'hsl(48deg, 45, 9)',
-    hex: '#847373'
+  "strings": {
+    "rgb": "rgb(33, 66, 99)",
+    "hsl": "hsl(48deg, 45, 9)",
+    "hex": "#847373"
   }
 }
