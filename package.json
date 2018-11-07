@@ -1,0 +1,28 @@
+{
+  "name": "pigment",
+  "version": "1.0.0",
+  "description": "Pigment is a collection of JS functions for creating and modifying colors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathanziarek/pigment.git"
+  },
+  "keywords": [
+    "pigment",
+    "color",
+    "shade",
+    "lab",
+    "rgb",
+    "hsl",
+    "hex"
+  ],
+  "author": "Nathan Ziarek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathanziarek/pigment/issues"
+  },
+  "homepage": "https://github.com/nathanziarek/pigment#readme"
+}
